@@ -2,20 +2,20 @@
 Repo for UVA Distributed Computing Final Project on Spark, recommender system, and graphical neural nets
 
 # Papers:
-https://arxiv.org/pdf/1905.08108.pdf (important)
-https://arxiv.org/pdf/2002.02126.pdf (important)
-https://arxiv.org/abs/1905.07854
-https://arxiv.org/abs/2306.02330
-https://dl.acm.org/doi/abs/10.1145/3568953
-https://arxiv.org/abs/1706.02263
+1. https://arxiv.org/pdf/1905.08108.pdf (important)
+2. https://arxiv.org/pdf/2002.02126.pdf (important)
+3. https://arxiv.org/abs/1905.07854
+4. https://arxiv.org/abs/2306.02330
+5. https://dl.acm.org/doi/abs/10.1145/3568953
+6. https://arxiv.org/abs/1706.02263
 
 # Helpful tutorial/github link:
-https://medium.com/@shivanshsethi8821/knowledge-graph-attention-network-for-recommendation-4be007989076
-https://github.com/pretrain/pretrain
-https://medium.com/stanford-cs224w/recommender-systems-with-gnns-in-pyg-d8301178e377 (important)
-https://www.kaggle.com/code/dipanjandas96/lightgcn-pytorch-from-scratch (important)
-https://github.com/ztor2/lightgcn_recommender_pyg
-https://github.com/HKUDS/GFormer
+1. https://medium.com/@shivanshsethi8821/knowledge-graph-attention-network-for-recommendation-4be007989076
+2. https://github.com/pretrain/pretrain
+3. https://medium.com/stanford-cs224w/recommender-systems-with-gnns-in-pyg-d8301178e377 (important)
+4. https://www.kaggle.com/code/dipanjandas96/lightgcn-pytorch-from-scratch (important)
+5. https://github.com/ztor2/lightgcn_recommender_pyg
+6. https://github.com/HKUDS/GFormer
 
 # Guangya's notes
 
